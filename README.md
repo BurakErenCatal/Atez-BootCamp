@@ -1,6 +1,6 @@
 # Atez-BootCamp
-Atez Backend Node.js Bootcamp
-Introduction to Node.js 
+<h1>Atez Backend Node.js Bootcamp<h1>
+<h2>Introduction to Node.js<h2> 
 Source Control (git)
 Introduction to Typescript
 Importing node.js core modules
