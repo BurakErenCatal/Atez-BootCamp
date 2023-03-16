@@ -1,6 +1,6 @@
 //@ts-ignore
 
-/*
+
 function takeSomeJobAndReturn<J> (job:J): J {
     console.log(job);
     
@@ -37,9 +37,6 @@ function getUserInfo<U, I>(id: U, name: I) :void{
 // Notlar, Bir fonksiyona birden fazla generic type atayabiliriz.
 // Generic tipler tek tip generic gibi gerçekleştiği için  
 
-*/
-
-/*
 interface IShoppingHistory{
     itemName: string;
     quantity: number;
@@ -93,10 +90,6 @@ numbers.remove(11);
 
 let returnValue = numbers.returnArray();
 console.log('RETURN VALUE IS HERE',returnValue);
-
-
-*/
-
 
 class Customer {
     firstName: string;
